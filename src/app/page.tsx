@@ -36,6 +36,9 @@ export default function Home() {
         <div className="m-1 border-white border-2 rounded-sm w-10/12 md:w-5/12 pt-1 pb-1 flex justify-center items-center">
           <Link href="https://trill.dylandao.dev/">Trill Burgers Inventory</Link>
         </div>
+        <div className="m-1 border-white border-2 rounded-sm w-10/12 md:w-5/12 pt-1 pb-1 flex justify-center items-center">
+          <Link href="https://www.linkedin.com/in/dylandao/overlay/1635538369638/single-media-viewer/?type=DOCUMENT&profileId=ACoAABzqWr0BUVzlgp1lBQycigbaZU6M09dwQ9w">Resume</Link>
+        </div>
       </div>
     </main>
   )
